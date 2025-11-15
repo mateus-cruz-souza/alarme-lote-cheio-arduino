@@ -18,3 +18,4 @@ O sistema utiliza um sensor ultrassônico para detectar e contar objetos (simula
 
 ## 📸 Imagem (Opcional)
 
+![foto-circuito-arduino](https://github.com/user-attachments/assets/bf958d42-62a0-4a84-ad7b-2b3176f63745)
